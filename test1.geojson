@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "asset": "Royal Mail" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.6609527, 53.4071306 ], [ -2.6606713, 53.4061444 ], [ -2.6582577, 53.4063891 ], [ -2.6585391, 53.4073753 ], [ -2.6609527, 53.4071306 ] ] ] } }
+]
+}
