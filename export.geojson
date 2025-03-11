@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-03-11T01:25:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30755823",
+        "addr:city": "Warrington",
+        "addr:postcode": "WA5 3XA",
+        "addr:street": "Orion Boulevard",
+        "amenity": "post_depot",
+        "building": "industrial",
+        "name": "Royal Mail Warrington Mail Centre",
+        "operator": "Royal Mail",
+        "operator:type": "private",
+        "operator:wikidata": "Q638098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.6609527,
+              53.4071306
+            ],
+            [
+              -2.6606713,
+              53.4061444
+            ],
+            [
+              -2.6582577,
+              53.4063891
+            ],
+            [
+              -2.6585391,
+              53.4073753
+            ],
+            [
+              -2.6609527,
+              53.4071306
+            ]
+          ]
+        ]
+      },
+      "id": "way/30755823"
+    }
+  ]
+}
